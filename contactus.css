@@ -1,0 +1,31 @@
+body{
+    background: url(../images/bg_contacts1.jpg) no-repeat fixed;
+    background-size: cover;
+    color: #c3e3b5;
+    align-content: center;
+
+}
+.container,.container-fluid{color: #c3e3b5;font-family:Constantia,sans-serif; font-style: italic; font-weight: bold;}
+.para{font-size: 18px;
+    font-style: italic;
+    color: #c3e3b5;
+    padding:5px;
+    margin-left:10px;
+
+}
+h1{
+    color:#c3e3b5;
+    padding-left:20px;
+}
+
+
+.media1{background-color:rgba(52, 52, 52, 0.51) ;padding:5px;margin-top: 5%;margin-bottom:3%;}
+.submit-form{position: relative; float:none; margin:0 auto; margin-bottom: 10px;}
+.contact{margin-bottom:10px;}
+
+
+
+.maps>iframe{height:280px;}
+.glyphicon-map-marker, .glyphicon-envelope , .glyphicon-earphone{ font-size:50px; }
+
+
